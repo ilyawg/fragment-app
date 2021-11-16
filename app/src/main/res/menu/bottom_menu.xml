@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="@string/menu" />
+    <item
+        android:id="@+id/license"
+        android:title="@string/license"
+        android:icon="@drawable/ic_baseline_info_24"/>
+</menu>
